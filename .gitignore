@@ -53,3 +53,4 @@ certificates
 .turbo
 
 tmp/
+.env
